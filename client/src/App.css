@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.logo-wrapper {
+  display: inline-block;
+  transition: transform 0.3s ease; /* Smooth transition for scaling */
+  cursor: pointer;
+}
+
+.logo-wrapper:hover {
+  transform: scale(1.1); /* Adjust scale value as needed */
+}
+
