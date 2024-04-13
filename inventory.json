@@ -1,0 +1,245 @@
+{
+  "El Salto": [
+    {
+      "material": "Paper",
+      "kilograms": "358.81",
+      "number_containers": "1"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "428.87",
+      "number_containers": "2"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "334.74",
+      "number_containers": "2"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "728.23",
+      "number_containers": "3"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "171.97",
+      "number_containers": "1"
+    }
+  ],
+  "Guadalajara": [
+    {
+      "material": "Paper",
+      "kilograms": "829.45",
+      "number_containers": "3"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "991.41",
+      "number_containers": "4"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "773.82",
+      "number_containers": "4"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "1683.44",
+      "number_containers": "6"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "397.55",
+      "number_containers": "1"
+    }
+  ],
+  "Ixtlahuacan de los Membrillos": [
+    {
+      "material": "Paper",
+      "kilograms": "181.67",
+      "number_containers": "1"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "217.15",
+      "number_containers": "1"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "169.49",
+      "number_containers": "1"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "368.72",
+      "number_containers": "2"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "87.07",
+      "number_containers": "1"
+    }
+  ],
+  "Juanacatlan": [
+    {
+      "material": "Paper",
+      "kilograms": "36.59",
+      "number_containers": "1"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "43.74",
+      "number_containers": "1"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "34.14",
+      "number_containers": "1"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "74.27",
+      "number_containers": "1"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "17.54",
+      "number_containers": "1"
+    }
+  ],
+  "San Pedro Tlaquepaque": [
+    {
+      "material": "Paper",
+      "kilograms": "544.27",
+      "number_containers": "2"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "650.55",
+      "number_containers": "3"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "507.77",
+      "number_containers": "3"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "1104.64",
+      "number_containers": "4"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "260.86",
+      "number_containers": "1"
+    }
+  ],
+  "Tlajomulco de Zuniga": [
+    {
+      "material": "Paper",
+      "kilograms": "397.21",
+      "number_containers": "1"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "474.77",
+      "number_containers": "2"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "370.57",
+      "number_containers": "2"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "806.16",
+      "number_containers": "3"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "190.38",
+      "number_containers": "1"
+    }
+  ],
+  "Tonala": [
+    {
+      "material": "Paper",
+      "kilograms": "580.54",
+      "number_containers": "2"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "693.9",
+      "number_containers": "3"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "541.61",
+      "number_containers": "3"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "1178.26",
+      "number_containers": "4"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "278.25",
+      "number_containers": "1"
+    }
+  ],
+  "Zapopan": [
+    {
+      "material": "Paper",
+      "kilograms": "954.11",
+      "number_containers": "3"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "1140.42",
+      "number_containers": "5"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "890.13",
+      "number_containers": "5"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "1936.45",
+      "number_containers": "7"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "457.3",
+      "number_containers": "1"
+    }
+  ],
+  "Zapotlanejo": [
+    {
+      "material": "Paper",
+      "kilograms": "200.25",
+      "number_containers": "1"
+    },
+    {
+      "material": "Cardboard",
+      "kilograms": "239.35",
+      "number_containers": "1"
+    },
+    {
+      "material": "Glass",
+      "kilograms": "186.82",
+      "number_containers": "1"
+    },
+    {
+      "material": "Plastic",
+      "kilograms": "406.42",
+      "number_containers": "2"
+    },
+    {
+      "material": "Metal",
+      "kilograms": "95.98",
+      "number_containers": "1"
+    }
+  ]
+}
