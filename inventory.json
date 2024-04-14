@@ -1,5 +1,19 @@
 {
-  "El Salto": [
+  "El Salto": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "358.81",
@@ -25,8 +39,22 @@
       "kilograms": "171.97",
       "number_containers": "1"
     }
-  ],
-  "Guadalajara": [
+  ]},
+  "Guadalajara": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "829.45",
@@ -52,8 +80,22 @@
       "kilograms": "397.55",
       "number_containers": "1"
     }
-  ],
-  "Ixtlahuacan de los Membrillos": [
+  ]},
+  "Ixtlahuacan de los Membrillos": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "181.67",
@@ -79,8 +121,22 @@
       "kilograms": "87.07",
       "number_containers": "1"
     }
-  ],
-  "Juanacatlan": [
+  ]},
+  "Juanacatlan": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "36.59",
@@ -106,8 +162,22 @@
       "kilograms": "17.54",
       "number_containers": "1"
     }
-  ],
-  "San Pedro Tlaquepaque": [
+  ]},
+  "San Pedro Tlaquepaque": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "544.27",
@@ -133,8 +203,22 @@
       "kilograms": "260.86",
       "number_containers": "1"
     }
-  ],
-  "Tlajomulco de Zuniga": [
+  ]},
+  "Tlajomulco de Zuniga": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "397.21",
@@ -160,8 +244,22 @@
       "kilograms": "190.38",
       "number_containers": "1"
     }
-  ],
-  "Tonala": [
+  ]},
+  "Tonala": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "580.54",
@@ -187,8 +285,22 @@
       "kilograms": "278.25",
       "number_containers": "1"
     }
-  ],
-  "Zapopan": [
+  ]},
+  "Zapopan": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "954.11",
@@ -214,8 +326,22 @@
       "kilograms": "457.3",
       "number_containers": "1"
     }
-  ],
-  "Zapotlanejo": [
+  ]},
+  "Zapotlanejo": {
+    "address": "Ramón Corona 1, Centro, 45680 El Salto, Jal.",
+    "nearby_stops": [
+      "Heliodoro Hernández Loza 344, Potrero Nuevo, 45680 El Salto, Jal.",
+      "Potrero Nuevo, 45680 El Salto, Jalisco",
+      "45680, Lázaro Cárdenas 42, Potrero Nuevo, El Salto, Jal.",
+      "Revolución Nte. 81, Potrero Nuevo, 45680 El Salto, Jal.",
+      "C. Independencia 160, Centro, 45680 El Salto, Jal.",
+      "Agustín de Iturbide 4, Centro, 45680 El Salto, Jal.",
+      "Higuera 65, 45680 El Salto, Jal.",
+      "Independencia el salto, 45680 Guadalajara, Jal.",
+      "Unnamed Road, Mesa de Los Laureles, El Salto, Jal.",
+      "45680 El Salto, Jalisco"
+    ],
+    "recycling_data": [
     {
       "material": "Paper",
       "kilograms": "200.25",
@@ -241,5 +367,5 @@
       "kilograms": "95.98",
       "number_containers": "1"
     }
-  ]
+  ]}
 }
