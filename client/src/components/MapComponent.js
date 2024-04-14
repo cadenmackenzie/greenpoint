@@ -34,7 +34,7 @@ const MapComponent = () => {
 
     const fetchDirections = async (map) => {
         try {
-            const response = await fetch(`${window.location.origin}/directions?city=Guadalajara`);
+            const response = await fetch(`${window.location.origin}/directions?city=Juanacatlan`);
             const data = await response.json();
             if (data.location && data.location.routes) {
                 const route = data.location.routes[0];
